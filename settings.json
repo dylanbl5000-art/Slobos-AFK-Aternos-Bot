@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FullMoonSmp.aternos.me:59232",
+    "ip": "FullMoonSmp.aternos.me",
     "port": 59232,
     "version": "",
     "try-creative": false
