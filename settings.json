@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Vadacugu16",
-    "password": "123456788D",
+    "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "fullmoonmace.minefort.com",
-    "port": 25565,
+    "ip": "FullMoonSmp.aternos.me:59232",
+    "port": 59232,
     "version": "",
     "try-creative": false
   },
@@ -19,8 +19,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": "123456788D"
+      "enabled": true,
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
